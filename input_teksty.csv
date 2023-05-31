@@ -1,0 +1,451 @@
+﻿testowane:
+Zbyt krótki nowy PIN mobilny.
+Nieprawidłowy format nowego PINu mobilnego.
+Bieżący PIN mobilny zbyt krótki.
+Podane PINy mobilne różnią się.
+Nowe Hasło mobilne jest takie samo jak stare.
+Nieprawidłowy format nowego hasła.
+Urządzenie mobilne jest zdezaktywowane. Nastąpi przejście do ponownej aktywacji urządzenia mobilnego.
+"Brak dostępu do bankowości mobilnej. Upewnij się, czy zawarłeś Umowę Bankowości Elektronicznej."
+Hasło zostało zmienione.
+Hasło mobilne zostało zmienione.
+PIN mobilny został zmieniony.
+Nowe Hasło mobilne jest zbyt krótkie.
+Nieprawidłowy format nowego Hasła mobilnego.
+Bieżące Hasło mobilne jest zbyt krótkie.
+Nowe Hasło mobilne i potwierdzone Hasło mobilne są różne.
+Nowe hasło i potwierdzone hasło są różne.
+Czy na pewno chcesz się wylogować?
+Czy na pewno chcesz ustawić nowe Hasło mobilne?
+Ze względów bezpieczeństwa wymagane jest zalogowanie się do aplikacji.
+"Logowanie do CA24 Mobile nie jest możliwe. Na Twoim urządzeniu została wykryta aplikacja, która może zagrozić bezpieczeństwu Twoich finansów:"
+Ustawienia prezentacji salda zostały zmienione.
+Czy na pewno chcesz dezaktywować urządzenie mobilne?
+Urządzenie mobilne zostało dezaktywowane.
+Urządzenie mobilne zostało aktywowane.
+Osiągnięto limit aktywnych instalacji. 
+Zablokowana metoda autoryzacji.
+Nieprawidłowe hasło autoryzacyjne.
+Upłynął termin ważności hasła autoryzacyjnego.
+CA24 Mobile 
+Wersja 1.0.0
+Kwota nie może przekraczać dostępnych środków.
+Dyspozycja przelewu została przyjęta do realizacji.
+Kwota musi być większa od zera.
+Kwota nie może przekraczać dostępnych środków.
+Data realizacji musi być wcześniejsza niż 
+Data realizacji musi być datą bieżącą lub datą późniejszą.
+"Brak rachunków, aby wykonać przelew własny."
+Niepoprawny format numeru rachunku.
+Rachunek obciążany musi być inny niż uznawany.
+"Przelew ekspresowy nie jest możliwy do realizacji w tej chwili, usługa niedostępna u jednego z uczestników systemu Express Elixir."
+"Korzystanie z przelewu ekspres Elixir wymaga podpisania aneksu do umowy rachunku dla usługi przelewu ekspresowego. Operacje możesz zrealizować w naszych placówkach bankowych. Upewnij się, że współposiadacz podpisał również aneks. Szczegółowe informacje uzyskasz kontaktując się z doradcą Serwisu telefonicznego CA24.  "
+Korzystanie z przelewu ekspres Elixir nie jest możliwe dla pakietu konta z którego korzystasz. Pakiet konta możesz zmienić za pośrednictwem doradcy Serwisu telefonicznego CA24 lub w Placówkach bankowych naszego banku.
+"Korzystanie z przelewu ekspres Elixir nie jest możliwe dla pakietu konta z którego korzystasz oraz wymaga podpisania aneksu do umowy rachunku dla usługi przelewu ekspresowego. Dokonaj zmiany pakietu konta oraz dodatkowo podpisz również aneks do umowy rachunku dla usługi przelewu ekspresowego. Upewnij się, że współposiadacz rachunku podpisał aneks. Szczegółowe informacje uzyskasz kontaktując się z doradcą Serwisu telefonicznego CA24 lub odwiedzając placówkę bankową."
+Przelew ekspresowy wyłączony. Szczegółowe informacje uzyskasz kontaktując się z doradcą serwisu telefonicznego CA24.
+Kwota musi być większa od zera.
+Kwota przekracza dopuszczalną kwotę dla wykonania przelewu.
+Kwota nie może przekraczać dostępnych środków.
+Data realizacji musi być wcześniejsza niż 
+Data realizacji musi być datą bieżącą lub datą późniejszą.
+Dyspozycja przelewu została przyjęta do realizacji. 
+Wskazana kwota prowizji jest aktualna na dzień złożenia dyspozycji i może ulec zmianie do dnia realizacji przelewu w przypadku zmiany Tabeli opłat i prowizji.
+Całkowita kwota obciążenia jest wyznaczona na dzień zlecania operacji i może ulec zmianie.
+"Brak rachunku, z którego można wykonać przelew zwykły."
+Przekroczono godzinę graniczną przyjmowania zleceń na datę bieżącą. Data realizacji przelewu została zmieniona na najbliższy dzień roboczy. 
+Wybrana data realizacji zlecenia przypada na dzień wolny od pracy. Wybierz inny dzień roboczy.
+Kwota musi być większa od zera.
+Kwota musi być mniejsza bądź równa wartości w polu ‘Środki dostępne na rachunku’.
+Dyspozycja wypłaty z rachunku oszczędnościowego została przyjęta do realizacji.
+Wypłata z rachunku nie jest możliwa.
+Wypłata z rachunku nie jest możliwa.
+Dyspozycja spłaty zadłużenia karty kredytowej została przyjęta do realizacji.
+Kwota przelewu została wyliczona w oparciu o kurs aktualny. Jej wartość zostanie przeliczona na walutę rachunku według kursu Credit Agricole z dnia realizacji przelewu.
+Kwota musi być większa od zera.
+Kwota musi być mniejsza bądź równa wartości w polu ‘Środki dostępne na rachunku’.
+Data realizacji musi być wcześniejsza niż 
+Data realizacji musi być datą bieżącą lub datą późniejszą.
+"Brak rachunków, aby wykonać spłatę zadłużenia karty kredytowej."
+Brak płatności spełniających kryteria.
+Data w polu ‘od’ nie może być późniejsza niż data w polu ‘do’.
+Data w polu ‘od’ nie może być wcześniejsza niż
+Kwota w polu ‘od’ musi być mniejsza bądź równa kwocie w polu ‘do’.
+Brak szablonów płatności spełniających kryteria.
+Niepoprawny format numeru telefonu.
+"Brak rachunku, z którego można doładować telefon."
+Kwota musi być większa bądź równa minimalnej kwocie doładowania dla danego operatora.
+Kwota musi być mniejsza bądź równa maksymalnej kwocie doładowania dla danego operatora.
+Brak doładowań spełniających kryteria.
+Data w polu ‘od’ nie może być późniejsza niż data w polu ‘do’.
+Data w polu ‘od’ nie może być późniejsza niż data bieżąca.
+Data w polu ‘do’ nie może być późniejsza niż data bieżąca.
+Data w polu ‘od’ nie może być wcześniejsza niż
+Data w polu ‘do’ nie może być wcześniejsza niż
+Kwota w polu ‘od’ musi być mniejsza bądź równa kwocie w polu ‘do’.
+Brak produktów.
+Brak zdarzeń.
+Nie posiadasz rachunków bieżących.
+Mój numer rachunku w Credit Agricole Bank Polska S.A.
+Nie posiadasz rachunków kart kredytowych.
+Brak kart.
+Brak blokad.
+Opłata zostanie pobrana zgodnie z Tabelą opłat i prowizji obowiązującą w dniu realizacji przelewu.
+Brak transakcji spełniających kryteria.
+Data w polu ‘od’ nie może być późniejsza niż data w polu ‘do’.
+Data w polu ‘od’ nie może być późniejsza niż data bieżąca.
+Data w polu ‘do’ nie może być późniejsza niż data bieżąca.
+Data w polu ‘od’ nie może być wcześniejsza niż 
+Data w polu ‘do’ nie może być wcześniejsza niż
+Kwota w polu ‘od’ musi być mniejsza bądź równa kwocie w polu ‘do’.
+Brak zleceń stałych spełniających kryteria.
+Brak możliwości modyfikacji limitów w wybranym kanale dostępu.
+Limit pojedynczej transakcji nie może być większy od maksymalnego limitu pojedynczej transakcji.
+Limit maksymalny pojedynczej transakcji nie może być większy od limitu dziennego.
+Limit dzienny w Serwisie mobilnym CA24 nie może być większy niż w Serwisie internetowym CA24.
+Limit dzienny w Serwisie mobilnym CA24 nie może być większy niż w Serwisie internetowym CA24.
+Limit dzienny w Serwisie mobilnym CA24 nie może być większy limit odgórny.
+Dla Serwisu internetowego CA24 możliwe jest tylko obniżenie wartości limitów. Podwyższenie ich wartości możliwe jest w placówce bankowej lub w Serwisie telefonicznym CA24 (niezbędny telekod).
+Wysokość limitu dziennego/pojedynczej operacji w Serwisie internetowym CA24 nie może być niższa niż wysokość limitu dziennego/pojedynczej operacji w Serwisie mobilnym CA24. Wysokość limitów Serwisu mobilnego CA24 zostanie automatycznie obniżona do wartości odpowiednich limitów Serwisu internetowego CA24.
+Zgoda na automatyczne dostosowanie limitów w Serwisie mobilnym CA24.
+Limit pojedynczej transakcji po modyfikacji nie może być większy od dotychczasowej wartości.
+Limit maksymalny pojedynczej transakcji po modyfikacji nie może być większy od dotychczasowej wartości.
+Limit dzienny transakcji po modyfikacji nie może być większy od dotychczasowej wartości.
+Limity zostały zmodyfikowane.
+Niepoprawny format kodu QR.
+"Kod QR zawiera Twoje dane, nie przekazuj go osobom nieuprawnionym. "
+Kod QR został zapisany.
+Trwa przetwarzanie danych. Spróbuj później.
+Trwa przetwarzanie danych. Spróbuj później.
+W celu uzyskania informacji prosimy o kontakt z Serwisem telefonicznym CA24 lub wizytę w placówce banku.
+Koszt połączenia zgodny z taryfą Twojego operatora. Czy chcesz kontynuować?
+You will be charged for the call in accordance with your operator’s tariff. Do you want to proceed?
+Le coût de l’appel correspond aux tarifs de votre operateur. Voulez-vous continuer?
+Koszt połączenia zgodny z taryfą Twojego operatora.
+Urządzenie nie pozwala na wykonywanie połączeń telefonicznych. Prosimy o kontakt pod nr
+Your device does not have a phone call feature. Please call us on
+Data w polu ‘od’ nie może być późniejsza niż data w polu ‘do’.
+Data w polu ‘od’ nie może być późniejsza niż data bieżąca.
+Data w polu ‘do’ nie może być późniejsza niż data bieżąca.
+Data w polu ‘od’ nie może być wcześniejsza niż
+Data w polu ‘do’ nie może być wcześniejsza niż
+Data w polu ‘od’ nie może być późniejsza niż data w polu ‘do’.
+Data w polu ‘od’ nie może być późniejsza niż data bieżąca.
+Data w polu ‘do’ nie może być późniejsza niż data bieżąca.
+Data w polu ‘od’ nie może być wcześniejsza niż
+Data w polu ‘do’ nie może być wcześniejsza niż
+Nie posiadasz lokat.
+Brak rachunków pozwalających założyć lokatę.
+Brak oferty lokat dla waluty 
+Lokata została założona.
+Dyspozycja założenia lokaty z datą przyszłą została przyjęta do realizacji.
+Nie posiadasz zleceń założenia lokat.
+Nie posiadasz Rachunków Oszczędzam.
+Nie posiadasz Programów Systematycznego Oszczędzania.
+Oprocentowanie sprawdzisz na poniższej stronie internetowej.
+Data zapadalności w polu ‘od’ nie może być późniejsza niż data zapadalności w polu ‘do’.
+Data zapadalności w polu ‘od’ nie może być wcześniejsza niż data bieżąca.
+Kwota w polu ‘od’ musi być mniejsza bądź równa kwocie w polu ‘do’.
+Okres w dniach nie może być mniejszy niż minimalny termin lokaty.
+Okres w dniach nie może być większy niż maksymalny termin lokaty.
+Kwota lokaty przekracza dostępne środki na rachunku.
+Kwota lokaty nie może być mniejsza niż
+Kwota lokaty nie może być większa niż
+Pole ‘Oświadczenie’ musi być zaznaczone.
+Wyszukanie adresu nie powiodło się.
+Brak możliwości dodania zdarzenia do kalendarza. Data spłaty nieznana.
+Zdarzenie zostało dodane.
+Status serwisu został zmieniony.
+Serwis został aktywowany.
+Serwis został dezaktywowany.
+Dezaktywacja Serwisu internetowego CA24 skutkuje również dezaktywacją Serwisu mobilnego CA24. Po zakończeniu operacji zostaniesz wylogowany z aplikacji.
+Po zakończeniu procesu zostaniesz wylogowany z aplikacji.
+Serwis został odblokowany.
+Rekomendacja zmiany hasła została włączona.
+Rekomendacja zmiany hasła została wyłączona.
+Nie masz aktywnych urządzeń mobilnych.
+Nazwa urządzenia została zmodyfikowana.
+Nazwa urządzenia może zawierać następujące typy znaków: litery (bez polskich znaków); cyfry oraz następujące znaki specjalne: ! @ . # _ . Nie może zawierać spacji.
+Urządzenie zostało usunięte.
+"Nazwa urządzenia może składać się z 1-25 znaków (liter, cyfr, znaków specjalnych !@.#_), nie może zawierać spacji oraz musi być unikalna."
+"Limit pojedynczej transakcji warunkuje, do jakiej kwoty będzie możliwa jednorazowa operacja finansowa, np. przelew."
+"Limit maksymalny pojedynczej transakcji jest to limit ustanawiany przez posiadacza/współposiadacza. Stanowi wartość, do której pełnomocnik może ustalić swój limit pojedynczej operacji."
+Limit dzienny jest to wspólny limit dla operacji finansowych dla wszystkich użytkowników danego rachunku w danym dniu.
+"Rekomendujemy  regularną zmianę hasła ze względów bezpieczeństwa. Ignorowanie rekomendacji zmiany hasła spowoduje, że bank nie będzie okresowo przypominał o zmianie hasła."
+"„Zmiana statusu dostępu na ""nieaktywny"" spowoduje brak dostępu do usług bankowych {?}."
+"Podana nazwa ulicy lub wsi powinna składać się z liter lub cyfr. Może zawierać znaki specjalne: ""&"", ""-"", apostrof, "","", ""."" i znak spacji. Podana nazwa nie może składać się tylko ze znaków specjalnych."
+"W treści pola mogą być wprowadzone litery i cyfry oraz znaki specjalne: ""/"" ""-"" i znak spacji. W treści pola nie mogą występować więcej niż dwa znaki / oraz nie mogą być wprowadzone same znaki specjalne."
+"W treści pola mogą być wprowadzone litery i cyfry oraz znaki specjalne: ""/"" ""-"" i znak spacji. W treści pola nie mogą występować więcej niż dwa znaki / oraz nie mogą być wprowadzone same znaki specjalne."
+"W treści pola mogą być wprowadzone litery i cyfry oraz znaki specjalne: ""-"", ""."", znak spacji i apostrof. Nazwa miejscowości nie może składać się z samych znaków specjalnych."
+"Hasło WWW nie może zawierać polskich liter, ani tzw. znaków specjalnych, innych niż litery bądź cyfry. Trzy nieudane próby wprowadzenia hasła są równoznaczne z zablokowaniem dostępu do serwisu WWW."
+Do podpisania – umowa oczekuje na Twój podpis
+W trakcie podpisywania – umowa oczekuje na podpis Banku
+Aktywna – umowa zawarta
+"Ostatni dzień, w którym będziesz mógł podpisać umowę. Po upływie tego terminu wniosek zostanie anulowany."
+"Zapoznaj się z treścią dokumentów, a następnie zaznacz oświadczenie i podpisz Umowę. Podpisanie Umowy wymaga dodatkowej autoryzacji."
+Data i godzina podpisania umowy przez Bank.
+Dostępna jest do pobrania aktualizacja aplikacji. Czy chcesz aktualizować teraz?
+Twoja wersja aplikacji nie jest wspierana. Czy chcesz ją zaktualizować?
+Modyfikacja danych nie jest możliwa. Skontaktuj się z bankiem.
+Dane zostały zmienione.
+Podany kod pocztowy jest nieprawidłowy.
+Niepoprawny numer telefonu stacjonarnego.
+Niepoprawny prefiks numeru telefonu stacjonarnego.
+Niepoprawny numer telefonu komórkowego.
+Niepoprawny prefiks numeru telefonu komórkowego.
+Podany adres email jest nieprawidłowy.
+Wstęp
+Witamy w przewodniku po najciekawszych funkcjach aplikacji Credit Agricole. Przesuń palcem ekran w lewo aby je poznać.
+Moje Produkty
+"Ekran ‘Moje Produkty’ przedstawia Twoje wszystkie rachunki bieżące oraz rachunki kart kredytowych. Używając menu kontekstowego produktu możesz szybko przejść do jego obsługi, np. wykonać przelew."
+Menu
+Nawigacja
+Menu możesz zobaczyć po przeciągnięciu palcem w prawą stronę lub naciśnięciu na ikonkę w lewym górnym rogu.  Z tego miejsca możesz dotrzeć do wszystkich produktów oraz funkcjonalności aplikacji.
+"Między ekranami aplikacji możesz przechodzić przesuwając je w prawo lub w lewo. Na kolejnych ekranach znajdziesz menu płatności, produktów oraz listę pozostałych funkcjonalności."
+Przelewy
+Płatności
+Wpisz lub wyszukaj odbiorcę z listy szablonów i wykonaj przelew potwierdzając go PINem mobilnym (dla odbiorców niezaufanych). Z tego miejsca możesz również spłacić kartę lub użyć czytnika kodów QR.
+"Wpisz lub wyszukaj odbiorcę z listy szablonów i wykonaj przelew potwierdzając go PINem mobilnym (dla odbiorców niezaufanych). Z tego miejsca możesz również spłacić kartę, doładować telefon lub użyć czytnika kodów QR."
+Kod QR
+"Oszczędź czas płacąc rachunki. Zeskanuj specjalny kod z papierowego rachunku lub faktury a wszystkie potrzebne dane zostaną automatycznie zaczytane. Z poziomu rachunku możesz również wygenerować własny kod QR. Znajomi mogą go zeskanować prosto z Twojego telefonu i szybko przelać Ci pieniądze, np. za wspólną wizytę w restauracji."
+Doładowania
+"Kilkoma kliknięciami możesz również doładować dowolny telefon. Wpisz numer, który chcesz zasilić a następnie zatwierdź doładowanie PINem mobilnym."
+Oszczędności
+Ekran oszczędności przedstawia wszystkie typy produktów oszczędnościowych pokazując zsumowane kwoty środków dla każdej waluty. Kliknij na wybrany typ produktu aby przejść do szczegółowej listy.
+Geolokalizacja
+"Na mapie geolokalizatora możesz odnaleźć najbliższe placówki, bankomaty, wpłatomaty oraz partnerów Klubu Rabatowego. Chcesz wiedzieć, czy blisko celu Twojej podróży jest sklep oferujący zniżkę dla klientów Credit Agricole? Wpisz adres na mapie i zobacz jakie punkty znajdują się w okolicy."
+Zmiana Profilu
+"Aplikacja CA24 Mobile umożliwa obsługę dwóch profili: Klienta indywidualnego oraz Klienta biznesowego. Dzięki czemu możesz obsługiwać produkty własne, jak i produkty firmy, którą reprezentujesz. Przycisk zmiany nie jest widoczny, jeśli posiadasz tylko jeden profil."
+Brak umów zawartych elektronicznie.
+Umowa Bankowości Elektronicznej została podpisana.
+"Wyrażam zgodę na zawarcie Umowy Bankowości Elektronicznej drogą elektroniczną za pośrednictwem Serwisu internetowego CA24, przekazanie projektu Umowy Bankowości Elektronicznej na stronie bankowości elektronicznej oraz na dostarczenie tej umowy na podany przeze mnie adres poczty elektronicznej. Potwierdzeniem złożenia oświadczenia woli jest wprowadzenie klucza zgodnie z Regulaminem kont dla osób fizycznych, którego dołączenie do umowy i przekazanie do Banku stanowi podpisanie tej umowy zgodnie z art. 7 ustawy Prawo bankowe.."
+Podpisanie Umowy Bankowości Elektronicznej wymaga dodatkowej autoryzacji.
+Niepoprawny numer telefonu.
+Niepoprawny prefiks numeru telefonu.
+Podany adres email jest nieprawidłowy.
+Błąd pobrania umowy. Spróbuj za chwilę.
+"Wraz z podpisaniem Umowy Bankowości Elektronicznej wszystkie rachunki, do których masz dostęp, zostaną automatycznie udostępnione we wszystkich aktywnych serwisach."
+"Informujemy, że od teraz, korespondencję dotyczącą Twoich umów zawartych z bankiem możesz otrzymywać za pośrednictwem poczty elektronicznej. Jeśli wyrażasz zgodę, zaakceptuj poniższy wniosek."
+Twój wniosek został zapisany. Dziękujemy.
+Wnioskuję o doręczanie przez Bank następujących informacji:
+"1.     korespondencji związanej z wykonywaniem umów z Bankiem lub zawartych za pośrednictwem Banku z innymi podmiotami współpracującymi z Bankiem, w tym propozycji zmian treści regulaminów lub tabel opłat i prowizji, "
+"2.     treści umów z Bankiem lub z innymi podmiotami współpracującymi z Bankiem, zawieranych za pośrednictwem bankowości elektronicznej, jeżeli w procesie zawierania danej umowy nie zostanie ustalony inny tryb jej dostarczenia za pośrednictwem poczty elektronicznej. Informacje mogą być doręczane na adres poczty elektronicznej wskazany przeze mnie w niniejszym wniosku lub na inny adres poczty elektronicznej wskazany  Bankowi."
+"Ustalony sposób dostarczania wymienionych powyżej informacji dotyczy już zawartych oraz przyszłych umów, o ile w przyszłości strony nie ustalą innego sposobu komunikacji."
+Podany adres email jest nieprawidłowy.
+Brak możliwości przyjęcia wniosku. Zapraszamy do placówki banku.
+Zawarcie Umowy Bankowości Elektronicznej umożliwi korzystanie z aplikacji CA24 Mobile.
+Wprowadzony numer telefonu komórkowego służył będzie do otrzymywania tymczasowych haseł do Serwisów oraz sms’ów autoryzacyjnych w przypadku posiadania takiej metody autoryzacji transakcji w Serwisie internetowym CA24.
+"Pytanie identyfikacyjne należy wybrać z listy pytań, a następnie ustalić swoją indywidualną odpowiedź. Pytanie i odpowiedź będą wykorzystywane do dodatkowej identyfikacji klienta w Serwisie telefonicznym CA24."
+Zaznaczenie spowoduje wysłanie tymczasowego hasła do Serwisu telefonicznego CA24.
+W celu zawarcia Umowy należy zapoznać się z treścią Umowy oraz regulaminem dostępnymi pod poniższymi linkami:
+Zbyt wysoka kwota przeliczenia.
+Wybierz przynajmniej jedną kategorię.
+Nie posiadasz rachunków kredytowych.
+Dyspozycja spłaty kredytu została przyjęta do realizacji.
+"Brak rachunków, aby wykonać spłatę zadłużenia kredytu."
+Opcja spłaty kredytu ze zmianą harmonogramu kredytu. Nie powoduje spłaty raty bieżącej.
+"Po dokonaniu płatności skontaktuj się ze swoim doradcą, aby ustalić opcję rozliczenia wcześniejszej spłaty."
+Kwota całkowitej wcześniejszej spłaty kredytu jest wyliczona na dzień
+Kredyt znajduje się w windykacji. Aby poznać całkowitą kwotę do spłaty kredytu należy skontaktować się z Bankiem.
+"W przypadku spłaty całkowitej dla wyliczonej kwoty, spłata musi nastąpić  w dniu dzisiejszym."
+Kwota musi być większa od zera.
+Kwota nie może przekraczać dostępnych środków.
+Data realizacji musi być wcześniejsza niż
+Data realizacji musi być datą bieżącą lub datą późniejszą.
+Nie posiadasz żadnych kredytów
+Pobierz plik i zapoznaj się z Umową i pozostałymi dokumentami kredytowymi. 
+Umowa kredytu gotówkowego została podpisana. Przelew środków i podpisanie Umowy za bank w trakcie realizacji.
+Na dowolny cel nawet do 24 000 zł
+Płać komfortową kartą Silver
+Ochrona w czasie podróży za granicą
+Na dobre zamieszkaj u siebie
+Indywidualna Linia Kredytowa dla Ciebie
+Ubezpieczenie Pomoc dla Ciebie
+Kredyt gotówkowy
+VISA Silver
+Pakiet Turystyczny
+Kredyt hipoteczny
+Indywidualna Linia Kredytowa
+Pomoc dla Ciebie
+"Dziękujemy za wypełnienie wniosku. Zadzwonimy do Ciebie, aby przedstawić ofertę kredytu."
+W aplikacji mobilnej możesz dokonać tylko obniżenia limitu.
+Niepoprawny format numeru telefonu.
+Nieprawidłowy adres e-mail.
+Czy chcesz zmienić język na angielski?
+Po zatwierdzeniu zmiany aplikacja uruchomi się ponownie.
+Czy chcesz zmienić język na angielski?
+Zmiany zostaną naniesione po ponownym uruchomieniu aplikacji.
+PotwierdzenieTransakcji
+Harmonogram
+Uaktualnij swoje dane osobowe
+Brak powiadomień do wyświetlania.
+Powiadomienia będą dostępne po aktywacji aplikacji.
+Czy potwierdzasz zmianę ustawień?
+Błąd  usługi BLIK. Spróbuj za chwilę.
+Brak włączonej usługi BLIK.
+Aby skorzystać z usługi BLIK podpisz aneks umowy konta – możesz to zrobić w Serwisie internetowym CA24 w sekcji „Oferta i umowy”. Następnie zmień rodzaj konta na wybrany rachunek z nowej oferty – możesz to zrobić w Serwisie telefonicznym CA24 lub dowolnej placówce Banku Credit Agricole.
+Aby uruchomić usługę BLIK podpisz  aneks do umowy konta. 
+Brak możliwości wykonania przelewu. Odbiorca nie posiada zarejestrowanego numeru telefonu w usłudze BLIK.
+Niepoprawny numer telefonu.
+Wprowadzona kwota nie może być wyższa niż
+"Przelew na telefon BLIK nie jest możliwy do realizacji w tej chwili, usługa niedostępna u jednego z uczestników."
+Dyspozycja przelewu na telefon BLIK została przyjęta do realizacji.
+Dyspozycja przelewu na telefon BLIK została zrealizowana.
+Kwota przelewu musi być większa od zera.
+Kwota przelewu nie może przekraczać dostępnych środków.
+Brak rachunków z włączoną usługą BLIK. 
+W aplikacji mobilnej możesz dokonać tylko obniżenia limitu.
+W aplikacji mobilnej możesz dokonać tylko obniżenia limitu.
+Maksymalny limit dla wypłat z bankomatu BLIK nie może być większy niż
+Maksymalny limit dla płatności BLIK w sklepie i Internecie nie może być większy niż
+Pole ‘Dyspozycja’ musi być zaznaczone.
+Rachunek przypisany do usługi BLIK jest nieprawidłowy. Zmodyfikuj ustawienia BLIK.
+Rachunek przypisany do przelewów na telefon BLIK jest nieprawidłowy. Zmodyfikuj ustawienia BLIK.
+Numer telefonu jest nieprawidłowy. Wyłącz usługę przelewów na telefon BLIK i zarejestruj ponownie numer telefonu.
+Czy na pewno chcesz wyłączyć przelewy na telefon BLIK? Po wyłączeniu tej usługi nie będziesz otrzymywać przelewów na swój numer telefonu.
+Numer telefonu jest nieprawidłowy. Wyłącz usługę przelewów na telefon BLIK i zarejestruj ponownie numer telefonu.
+"Brak numeru telefonu, który może zostać użyty do usługi przelewów na telefon BLIK.  W celu uzyskania informacji prosimy o kontakt z Serwisem telefonicznym CA24 lub wizytę w placówce banku."
+Usługa BLIK została włączona.
+ Transakcja nieudana.
+Autoryzacja nieudana.
+Autoryzacja przerwana.
+Transakcja nieudana.
+Minął czas na autoryzację.
+Modyfikacja usługi BLIK została poprawnie zakończona.
+Brak włączonej usługi BLIK.
+Limit BLIK został poprawnie zmodyfikowany.
+Usługa BLIK niedostępna. Spróbuj później.
+Usługa BLIK została wyłączona.
+Czy chcesz anulować wprowadzone zmiany?
+Wystąpił problem z usługą BLIK. W celu uzyskania informacji prosimy o kontakt z serwisem telefonicznym CA24 lub wizytę w placówce banku.
+Wystąpił błąd. Zaloguj się do aplikacji mobilnej.
+Usługa BLIK wyłączona. Czy chcesz włączyć usługę BLIK?
+Usługa BLIK wyłączona. Czy chcesz się zalogować i włączyć usługę BLIK?
+Kod BLIK wygenerowany na innym urządzeniu.
+Kod BLIK stracił ważność. Wygeneruj nowy kod BLIK.
+Wystąpił błąd. Spróbuj ponownie.
+Wystąpił błąd. Spróbuj ponownie.
+Płatność BLIK została poprawnie zakończona.
+Kwota musi być większa od zera.
+Nie możesz zapisać ustawień z  nieaktywnym rachunkiem.
+Usługę prezentowania dostępnych środków przed zalogowaniem możesz uruchomić w ustawieniach aplikacji.
+Dyspozycja przelewu została przyjęta do realizacji. 
+"Brak rachunku, z którego można wykonać przelew krajowy do kontrahenta."
+Dyspozycja przelewu została przyjęta do realizacji. 
+"Brak rachunku, z którego można wykonać przelew kontrahenta."
+Wskazana kwota prowizji jest aktualna na dzień złożenia dyspozycji i może ulec zmianie do dnia realizacji przelewu w przypadku zmiany Tabeli opłat i prowizji.
+Niepoprawny format numeru rachunku.
+Rachunek obciążany musi być inny niż uznawany.
+Kwota musi być większa od zera.
+Kwota przekracza dopuszczalną kwotę dla wykonania przelewu.
+Kwota VAT musi być większa od zera.
+Kwota VAT musi być mniejsza lub równa kwocie całkowitej.
+Kwota przelewu nie może przekraczać dostępnych środków.
+Kwota VAT nie może przekraczać dostępnych środków na rachunku VAT
+Data realizacji musi być wcześniejsza niż
+Data realizacji musi być datą bieżącą lub datą późniejszą.
+Kwota musi być większa od zera.
+Kwota przelewu nie może przekraczać dostępnych środków.
+Czy na pewno chcesz opuścić wniosek? Zmiany nie zostaną zapisane.
+Czy na pewno chcesz opuścić wniosek? Twoja umowa kredytu gotówkowego będzie dostępna przez 3 dni w serwisie CA24 eBank lub w aplikacji CA24 Mobile w zakładce oferty i umowy.
+Czy na pewno chcesz opuścić wniosek? Twoja umowa kredytu gotówkowego będzie dostępna przez 3 dni w serwisie CA24 eBank lub w aplikacji CA24 Mobile w zakładce oferty i umowy.
+Czy chciałbyś logować się odciskiem palca?
+Czy chciałbyś logować się za pomocą FaceID?
+Logowanie biometryczne aktywne.
+Aktywacja logowania biometrycznego nie powiodła się.
+"Skonfiguruj logowanie biometryczne na swoim urządzeniu, a następnie włącz tę funkcję w ustawieniach aplikacji."
+Czy chcesz wyłączyć logowanie biometryczne?
+Logowanie biometryczne nieaktywne.
+Ze względów bezpieczeństwa funkcje biometryczne nie są dostępne na zrootowanych urządzeniach.
+"Przekroczono dopuszczalną liczbę błędnych prób logowania. Funkcje biometryczne zostały wyłączone na Twoim urządzeniu. Zaloguj się do aplikacji przy pomocy hasła mobilnego , aby włączyć ponownie wybrane funkcje biometryczne w ustawieniach aplikacji."
+Nie rozpoznano odcisku palca.
+"Funkcje biometryczne zostały wyłączone na Twoim urządzeniu, obecnie możesz logować się tylko z użyciem hasła mobilnego, a operacje potwierdzać PINem mobilnym.”"
+"Wykryto zmianę w ustawieniach modułu biometrii Twojego urządzenia. Funkcje biometryczne zostały wyłączone, obecnie możesz się logować z użyciem hasła mobilnego, a operacje potwierdzać PINem Mobilnym. "
+"Włączając biometryczną autoryzację uzyskasz możliwość autoryzowania maksymalnie {Y} internetowych transakcji kartowych do kwoty {X} przy pomocy Face ID. Mimo włączonej autoryzacji tego typu, bank okresowo będzie wymagał podawania PINu podczas niektórych operacji."
+"Włączając biometryczną autoryzację uzyskasz możliwość autoryzowania maksymalnie {Y} internetowych transakcji kartowych do kwoty {X} przy pomocy odcisku palca. Mimo włączonej autoryzacji tego typu, bank okresowo będzie wymagał podawania PINu podczas niektórych operacji."
+Po wyłączeniu autoryzacja będzie realizowana z użyciem PINu mobilnego.
+Autoryzacja biometryczna została włączona.
+Zmiana ustawień logowania biometrycznego oraz autoryzacji biometrycznej zakończona sukcesem.
+Funkcjonalność chwilowo niedostępna. Spróbuj później.
+Brak kart.
+"Nie posiadasz aplikacji Google Pay na swoim urządzeniu przekierujemy Cię do sklepu z aplikacjami, gdzie możesz pobrać aplikację Google Pay. Czy potwierdzasz?"
+Usługa Apple Pay nie jest dostępna Twoim urządzeniu.
+"Chcę korzystać z aplikacji Apple Pay (Aplikacja) dostarczanej przez Apple Distribution International z siedzibą w Irlandii, Holly Hill Industrial Estate, Cork, Irlandia (Apple), dlatego zgadzam się, aby Credit Agricole Bank Polska S.A. z siedzibą we Wrocławiu (Bank) przesyłał informacje, które są potrzebne aby zrejestrować kartę w Aplikacji i jej używać. Będą to dane osobowe, które zawiera  moja karta płatnicza, adres korespondencyjny oraz dane o wykonywanych kartami transakcjach, w tym o ich datach, kwotach, walutach, rodzajach, statusach, miejscach ich wykonania."
+"Zgoda jest dobrowolna i może być wycofana w dowolnym momencie, ale bez zgody Bank nie może przekazać Apple informacji o transakcjach. Czynności wykonane przed wycofaniem zgody pozostają zgodne z prawem."
+"Chcę korzystać z aplikacji Google Pay (Aplikacja) dostarczanej przez Google LLC z siedzibą w USA, 1600 Amphitheatre Parkway, Mountain View, California 94043 (Google), dlatego zgadzam się, aby Credit Agricole Bank Polska S.A. z siedzibą we Wrocławiu (Bank) przesyłał Google informacje, które są potrzebne, aby zarejestrować kartę w Aplikacji i jej używać. Będą to dane osobowe, które zawiera  moja karta płatnicza, adres korespondencyjny oraz dane o wykonywanych kartami transakcjach, w tym o ich datach, kwotach, walutach, rodzajach, statusach, miejscach ich wykonania."
+"Zgoda jest dobrowolna i może być wycofana w dowolnym momencie, ale bez zgody Bank nie może przekazać Google informacji o transakcjach. Czynności wykonane przed wycofaniem zgody pozostają zgodne z prawem."
+Wyrażenie zgody na przekazanie danych jest obowiązkowe.
+Wyrażenie zgody na przekazanie danych jest obowiązkowe.
+"Chcę korzystać z aplikacji Apple Pay (Aplikacja) dostarczanej przez Apple Distribution International z siedzibą w Irlandii, Holly Hill Industrial Estate, Cork, Irlandia (Apple), dlatego zgadzam się, aby Credit Agricole Bank Polska S.A. z siedzibą we Wrocławiu (Bank) przesyłał informacje, które są potrzebne aby zrejestrować kartę w Aplikacji I jej używać. Będą to dane osobowe, które zawiera  moja karta płatnicza, adres korespondencyjny oraz dane o wykonywanych kartami transakcjach, w tym o ich datach, kwotach, walutach, rodzajach, statusach, miejscach ich wykonania."
+"Zgoda jest dobrowolna I może być wycofana w dowolnym momencie, ale bez zgody Bank nie może przekazać Apple informacji o transakcjach. Czynności wykonane przed wycofaniem zgody pozostają zgodne z prawem."
+"Chcę korzystać z aplikacji Google Pay (Aplikacja) dostarczanej przez Google LLC z siedzibą w USA, 1600 Amphitheatre Parkway, Mountain View, California 94043 (Google), dlatego zgadzam się, aby Credit Agricole Bank Polska S.A. z siedzibą we Wrocławiu (Bank) przesyłał Google informacje, które są potrzebne, aby zarejestrować kartę w Aplikacji i jej używać. Będą to dane osobowe, które zawiera  moja karta płatnicza, adres korespondencyjny oraz dane o wykonywanych kartami transakcjach, w tym o ich datach, kwotach, walutach, rodzajach, statusach, miejscach ich wykonania."
+"Zgoda jest dobrowolna i może być wycofana w dowolnym momencie, ale bez zgody Bank nie może przekazać Google informacji o transakcjach. Czynności wykonane przed wycofaniem zgody pozostają zgodne z prawem."
+"Nie masz rachunków, które pozwalają na rejestrację w Programie Poleceń."
+Aktualnie nie ma aktywnego Programu Poleceń.
+Zrezygnowałeś z Program Poleceń.
+"Oświadczam, że zapoznałem się z regulaminem Programu Poleceń oraz potwierdzam przystąpienie do programu."
+"Jeżeli jesteś zadowolony ze swojego konta w banku Credit Agricole, przystąp już dziś do Programu Poleceń III i zacznij polecać konta jako polecający."
+Zyskaj do 500 zł premii netto za 10 pierwszych kont otwartych z Twojego polecenia – 50 zł netto za jedno skuteczne polecenie.
+"Dziękujemy za przystąpienie do Programu Poleceń. Prześlij kod polecenia osobie, której polecasz otwarcie konta w banku Credit Agricole i odbierz 50 zł premii za jedno skuteczne polecenie – łącznie nawet 500 zł."
+Czy chcesz zrezygnować z Programu Poleceń?
+Twoje urządzenie lub wersja systemu nie wspiera Apple Pay.
+"Nie udzielono uprawnień do aparatu dla aplikacji CA24 Mobile. Przejdź do Ustawień urządzenia, aby je nadać."
+Możliwość wykonywania operacji została zablokowana 
+ze względu na niekompletne dane osobowe (brak informacji o kraju urodzenia lub/i miejscowości urodzenia). Aby przywrócić tą funkcjonalność zaloguj się do CA24 eBank
+i uzupełnij dane w zakładce „Dane osobowe”.
+Operacja zautoryzowana poprawnie. 
+Brak operacji do autoryzacji.
+Czy na pewno chcesz anulować autoryzację operacji?
+"Aplikacja pracuje w trybie autoryzacji offline, w którym można autoryzować tylko operacje zlecone z CA24 eBank. Aby autoryzować transakcję zeskanuj kod QR dostępny w serwisie CA24 eBank, zatwierdź transakcję PINem mobilnym w aplikacji CA24 Mobile. Uzyskany kod posłuży Ci do autoryzacji transakcji w serwisie CA24 eBank."
+Mobilna autoryzacja została włączona na tym urządzeniu.
+Bieżące urządzenie zaufane zostało przypisane do Mobilnej autoryzacji w kanale CA24 eBank.
+Mobilna autoryzacja na bieżącym urządzeniu jest wyłączona. Czy chcesz zalogować się i włączyć mobilną autoryzację na bieżącym urządzeniu?
+Nie posiadasz dokumentów podpisanych w bankowości elektronicznej.
+Nie masz żadnych nowych dokumentów do podpisania.
+Czy na pewno chcesz opuścić wniosek? Twoja umowa będzie dostępna przez 3 dni w serwisie CA24 eBank lub w aplikacji CA24 Mobile w zakładce oferty i umowy.
+Czy na pewno chcesz opuścić wniosek? Twój aneks zmiany limitu kredytowego na karcie będzie dostępny przez 3 dni w serwisie CA24 eBank lub w aplikacji CA24 Mobile w zakładce Oferty i umowy.
+Czy na pewno chcesz zrezygnować z podpisania wniosku?
+"Mamy Twój wniosek. Zadzwonimy do Ciebie, żeby dokończyć formalności"
+Aneks do umowy Konta
+Aneks do umowy Karty Kredytowej
+Aby przejść dalej zaznacz oświadczenie o zapoznaniu się z dokumentami.
+Aby przejść dalej zaznacz oświadczenie o zapoznaniu się z regulaminem.
+Aby przejść dalej zaznacz wszystkie oświadczenia.
+Aby przejść dalej przeczytaj załączony aneks oraz zaznacz oświadczenie o zapoznaniu się z dokumentami.
+Umowa została przez Ciebie podpisana. Wkrótce otrzymasz od nas umowę na swój adres e-mail oraz będziesz mógł ją zobaczyć w CA24 Mobile i CA24 eBank.
+Aneks zmiany kwoty limitu kredytowego na karcie został przez Ciebie podpisany.
+Pole z adresem e-mail nie może być puste.
+Czy na pewno chcesz przerwać proces podpisania aneksu?
+"Ostatni dzień, w którym możesz podpisać umowę. Po upływie tego terminu wniosek zostanie anulowany."
+"Ostatni dzień, w którym możesz podpisać aneks. Po upływie tego terminu wniosek zostanie anulowany."
+"Po skutecznym podpisaniu przez Ciebie aneksu, adres email zostanie zaktualizowany w bazie danych Banku i będzie wykorzystywany w komunikacji z Tobą."
+Umowy zostały przez Ciebie podpisane. Wkrótce otrzymasz od nas umowy na swój adres e-mail oraz będziesz mógł je zobaczyć w CA24 Mobile i CA24 eBank.
+Przeczytaj aneks
+Pobierz plik i zapoznaj się z nim. Jeśli dane są niepoprawne skontaktuj się z nami.
+Aneks został podpisany.
+Aby przejść dalej wyraź zgodę na podpisanie aneksu drogą elektroniczną.
+"Dokumenty do podpisu – w tej zakładce zobaczysz umowy i aneksy, które możesz podpisać. Klikając „podpisz” będziesz mieć możliwość przeczytania dokumentów, które na Ciebie oczekują. Zapoznaj się z nimi a następnie zaakceptuj PINem Mobilnym."
+"Dokumenty podpisane – w tej zakładce zobaczysz umowy i aneksy, które zostały przez Ciebie zawarte w bankowości elektronicznej. W dowolnym momencie możesz sprawdzić kiedy dokument został zawarty oraz pobrać go w formie PDF. "
+Przy danym dokumencie wyświetla się również jego status:
+#NAME?
+#NAME?
+"Wyrażam zgodę na zawarcie Aneksu do umowy rachunku karty kredytowej drogą elektroniczną  za pośrednictwem Aplikacji mobilnej, przekazanie projektu Aneksu w Aplikacji mobilnej oraz na dostarczenie tego Aneksu na podany przeze mnie adres poczty elektronicznej. Potwierdzeniem złożenia oświadczenia woli jest wprowadzenie PINu mobilnego zgodnie z Regulaminem Bankowości Elektronicznej CA24, którego dołączenie do Aneksu i przekazanie do Banku stanowi podpisanie tego aneksu zgodnie z art. 7 ustawy Prawo bankowe."
+"Wyrażam zgodę na zawarcie Aneksu do umowy konta drogą elektroniczną  za pośrednictwem Aplikacji mobilnej, przekazanie projektu Aneksu w Aplikacji mobilnej oraz na dostarczenie tego Aneksu na podany przeze mnie adres poczty elektronicznej. Potwierdzeniem złożenia oświadczenia woli jest wprowadzenie PINu mobilnego zgodnie z Regulaminem Bankowości Elektronicznej CA24, którego dołączenie do Aneksu i przekazanie do Banku stanowi podpisanie tego aneksu zgodnie z art. 7 ustawy Prawo bankowe."
+Mobilna autoryzacja dla internetowych transakcji kartowych została wyłączona.
+Mobilna autoryzacja została włączona dla operacji z serwisu internetowego CA24 eBank. Jednocześnie mobilna autoryzacja została wyłączona dla internetowych transakcji kartowych.
+Mobilna autoryzacja dla internetowych transakcji kartowych została włączona.
+Mobilna autoryzacja została włączona. Możesz teraz potwierdzać operacje z serwisu internetowego CA24 eBank oraz internetowe transakcje kartowe.
+Mobilna autoryzacja dla internetowych transakcji kartowych została przeniesiona na to urządzenie.
+Mobilna autoryzacja została włączona. Możesz teraz potwierdzać operacje z serwisu internetowego CA24 eBank oraz internetowe transakcje kartowe na tym urządzeniu.
+Mobilna autoryzacja została przeniesiona na to urządzenie. Możesz teraz potwierdzać operacje z serwisu internetowego CA24 eBank oraz internetowe transakcje kartowe na tym urządzeniu.
+Wystąpił problem podczas dodawania plików. Dodaj wymagane pliki ponownie.
+Załączniki zostały przekazane Doradcy. Poczekaj na kontakt zwrotny z jego strony.
+Funkcjonalność chwilowo niedostępna. Spróbuj później.
+Plik jest za duży. Maksymalny rozmiar pliku to
+Nie można dodać kolejnego załącznika. Maksymalna ilość załączników to
+Błąd podczas weryfikacji pliku. 
+"Aby dołączyć dokument, najpierw pobierz wzór, podpisz go i zeskanuj, a następnie dodaj plik."
+Aby przejść dalej zaznacz oświadczenie o zapoznaniu się z regulaminem.
+Dodane pliki zostaną usunięte. Czy na pewno chcesz opuścić ekran bez ich zapisania?
+Trwa przetwarzanie danych i lista transakcji może nie być aktualna.
+Trwa przetwarzanie danych. Twoja transakcja będzie widoczna w historii transakcji z opóźnieniem.
+Ta aplikacja jest już niedostępna. Zachęcamy do pobrania nowej aplikacji CA24 Mobile.
